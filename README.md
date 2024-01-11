@@ -1,3 +1,2 @@
-- Hi, I’m currently learning JavaScript, HTML, CSS, PHP, and Python
+- Hi, I’m currently learning JavaScript
 - Currently, this GitHub profile is only used for experimental purposes
-- How to reach me: I live in Indonesia.

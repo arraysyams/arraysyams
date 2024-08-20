@@ -1,1 +1,1 @@
-- JavaScript!
+<script>alert("JavaScript")</script>
